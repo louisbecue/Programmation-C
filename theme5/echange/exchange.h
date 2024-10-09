@@ -1,0 +1,1 @@
+void newswap(void *, const void *, unsigned int);
